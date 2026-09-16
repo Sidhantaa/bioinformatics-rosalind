@@ -1,2 +1,2 @@
 # bioinformatics-rosalind
-Sidhantaa + 1001861459 + BIOL3340-001
+Sidhantaa Sarna + 1001861459 + BIOL3340-001
